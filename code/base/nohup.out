@@ -1,0 +1,11 @@
+Using TensorFlow backend.
+Traceback (most recent call last):
+  File "train_by_load.py", line 5, in <module>
+    import RL_Functions as Functions
+  File "/home/providence/KevinTakano/DeepLearningAssignment/RL_Functions.py", line 26, in <module>
+    from IPython.display import clear_output
+  File "/home/providence/tf_env/local/lib/python2.7/site-packages/IPython/__init__.py", line 54, in <module>
+    from .utils.frame import extract_module_locals
+  File "/home/providence/tf_env/local/lib/python2.7/site-packages/IPython/utils/frame.py", line 19, in <module>
+    from IPython.utils import py3compat
+KeyboardInterrupt
